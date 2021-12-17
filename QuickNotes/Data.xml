@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<CBTs>
+  <CBT>-- Remotely accessing users computer.</CBT>
+  <CBT>-- Requested permission to remotely access users computer</CBT>
+  <CBT>-- Ticket Resolved</CBT>
+  <CBT>-- User provided an existing ticket number. Reviewing this ticket now</CBT>
+  <CBT>-- Reviewed list of approvers in internal documents</CBT>
+  <CBT>-- Logged into Office 365 Admin Portal using credentials from internal documentation</CBT>
+  <CBT>-- Consulting tier 2 on this issue</CBT>
+  <CBT>-- Reviewed internal references and documentation</CBT>
+  <CBT>-- User returned from inactivity</CBT>
+  <CBT>-- Inactivity warning</CBT>
+  <CBT>-- Sent awaiting customer email</CBT>
+  <CBT>-- Setting ticket to awaiting customer</CBT>
+  <CBT>-- Provided user with ticket number</CBT>
+  <CBT>-- Escalating ticket to tier 4</CBT>
+  <CBT>-- Received authorization for file permission change</CBT>
+  <CBT>-- Received authorization for password change</CBT>
+</CBTs>
